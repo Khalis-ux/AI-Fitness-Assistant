@@ -2,8 +2,6 @@
 
 An AI-driven fitness assistant that generates personalized workout routines and meal plans, tracks progress, and provides real-time feedback on exercise form using your camera. This project leverages the Google Gemini API to deliver a smart, adaptive, and personalized fitness experience directly in your browser.
 
-![AI Fitness Assistant Screenshot](https://storage.googleapis.com/aif-quick-start-images/ai-fitness-coach-screenshot.png)
-
 ## ✨ Key Features
 
 -   **Personalized Profile Setup**: A multi-step onboarding process captures user details like age, weight, height, fitness level, goals, and dietary preferences.
