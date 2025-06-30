@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Fitness Assistant",
+  "description": "An AI-driven fitness assistant that generates personalized workout routines and meal plans, tracks progress, and provides real-time feedback on exercise form using your camera.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
